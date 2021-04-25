@@ -1,0 +1,20 @@
+{
+    "name": "Text to Speech",
+    "short_name":"T2S",
+    "start_url":".",
+    "background_color":"#6dacdb",
+    "theme_color":"#007897",
+    "display":"standalone",
+    "icons":[
+        {
+            "src":"Images/icon.png",
+            "sizes":"192x192",
+            "type":"image/png"
+        },
+        {
+            "src":"Images/icon1.png",
+            "sizes":"512x512",
+            "type":"image/png"
+        }
+    ]
+}
