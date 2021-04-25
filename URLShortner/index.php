@@ -25,5 +25,15 @@ Developer: Rituraj Debashish Bikash
         <div class="byline"><p>URL Shortner Designed and Developed by  <a href="https://github.com/riturajgupta21">Rituraj</a>, <a href="https://github.com/debashishsamantara">Debashish, </a>, <a href="https://github.com/bikash1317">Bikash</a></p></div>
 		<div class="Footer"><p><a href="https://github.com/codex-iter">© Codex ITER All Rights Reserved. Copyright</a></p></div>
     </body>
-    
+    <script>
+        if ("serviceWorker" in navigator) {
+            navigator.serviceWorker.register("sw.js").then(registration => {
+            console.log("SW Registered");
+            console.log(registration);
+        }).catch(error => {
+        console.log("SW Registered Failed");
+        console.log(error);
+        });
+        }
+    </script>
 </html>

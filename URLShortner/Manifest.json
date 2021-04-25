@@ -1,0 +1,20 @@
+{
+    "name": "URL Shortner",
+    "short_name":"URL Short",
+    "start_url":".",
+    "background_color":"#6dacdb",
+    "theme_color":"#333333",
+    "display":"standalone",
+    "icons":[
+        {
+            "src":"Images/icon.png",
+            "sizes":"192x192",
+            "type":"image/png"
+        },
+        {
+            "src":"Images/icon1.png",
+            "sizes":"512x512",
+            "type":"image/png"
+        }
+    ]
+}
