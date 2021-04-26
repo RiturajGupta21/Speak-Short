@@ -1,6 +1,6 @@
 {
     "name": "Text to Speech",
-    "short_name":"T2S",
+    "short_name":"T2V",
     "start_url":".",
     "background_color":"#6dacdb",
     "theme_color":"#007897",
