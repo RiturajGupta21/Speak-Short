@@ -1,5 +1,11 @@
 # Speak-Short
+A unique combination of text to speech and url shortner
 
+Using the Web Speech API for Multilingual Translations 
+
+And with php as a backend and sql for database URL shortner is implemented
+
+PWA Enabled.
 # Contributors
 <table>
 <tr>
